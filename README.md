@@ -5,7 +5,7 @@ Project description
 ---
 Give data to the client via the endpoint:
 
-http://localhost:3333/api/film/:title
+GET: http://localhost:3333/api/film/:title
 
 If a movie title includes two or more words, hyphenate it.
 For example:
