@@ -26,13 +26,10 @@ The application caches data for 15 seconds in Node application memory, and 30 se
 
 ---
 
-#### 1. Project init
+#### Project init and build using Docker Compose
 
-- Run `git clone`.
-
----
-
-#### 2. Build project using Docker Compose
+- Run `git clone git@github.com:Alexey-DP/test-task-dvd-rental.git`
+- cd test-task-dvd-rental
 
 - To build (rebuild) `docker-compose up -d --build`
 - To start without building `docker-compose up -d`
