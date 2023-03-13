@@ -1,0 +1,4 @@
+export enum CONSTANTS {
+    NODE_CACHE_TIME = 15,
+    REDIS_CACHE_TIME = 30
+}
